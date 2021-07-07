@@ -1,4 +1,4 @@
-# İleri Tarihli Elektrik Tüketim Verilerinin hava durumu bilgisine göre LSTM modeli ile Tahmini / Forecast of Future Electricity Consumption Data with LSTM model according to weather information
+# İleri Tarihli Elektrik Tüketim Verilerinin hava durumu bilgisine göre LSTM tabanlı Sequential modeli ile Tahmini / Forecast of Future Electricity Consumption Data with LSTM based Sequential model according to weather information
 
 ## Proje Özellikleri / Project Features
 Proje kapsamında hedefimiz,  elektrik tüketim verilerine paralel olarak eklenmiş hava durumu verileri ile
